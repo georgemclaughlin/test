@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random Security Things</title>
+    <link>https://georgemclaughlin.github.io/test/index.xml</link>
+    <description>Recent content on Random Security Things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 16:14:36 -0600</lastBuildDate>
+    <atom:link href="https://georgemclaughlin.github.io/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>some stuff</title>
+      <link>https://georgemclaughlin.github.io/test/post/some-stuff/</link>
+      <pubDate>Sun, 22 Jan 2017 16:14:36 -0600</pubDate>
+      
+      <guid>https://georgemclaughlin.github.io/test/post/some-stuff/</guid>
+      <description>&lt;p&gt;some stuff was done&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
